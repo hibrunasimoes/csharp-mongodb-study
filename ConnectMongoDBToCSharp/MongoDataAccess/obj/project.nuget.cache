@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhFPv0W3UIJgTy8PJ5lz3cem0urwYsCWj3hNTvtmObfi9c0I/of2xQjXMZOMomjIGlmFMvEOCds6qhhFgZznQg==",
+  "success": true,
+  "projectFilePath": "/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/MongoDataAccess.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunasimoesmoita/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/mongodb.bson/2.14.1/mongodb.bson.2.14.1.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/mongodb.driver/2.14.1/mongodb.driver.2.14.1.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/mongodb.driver.core/2.14.1/mongodb.driver.core.2.14.1.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/mongodb.libmongocrypt/1.3.0/mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/brunasimoesmoita/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

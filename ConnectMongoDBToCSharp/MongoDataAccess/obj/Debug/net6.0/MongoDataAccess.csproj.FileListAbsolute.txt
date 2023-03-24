@@ -1,0 +1,12 @@
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/bin/Debug/net6.0/MongoDataAccess.deps.json
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/bin/Debug/net6.0/MongoDataAccess.dll
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/bin/Debug/net6.0/MongoDataAccess.pdb
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/MongoDataAccess.csproj.AssemblyReference.cache
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/MongoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/MongoDataAccess.AssemblyInfoInputs.cache
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/MongoDataAccess.AssemblyInfo.cs
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/MongoDataAccess.csproj.CoreCompileInputs.cache
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/MongoDataAccess.dll
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/refint/MongoDataAccess.dll
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/MongoDataAccess.pdb
+/Users/brunasimoesmoita/Downloads/ConnectMongoDBToCSharp/MongoDataAccess/obj/Debug/net6.0/ref/MongoDataAccess.dll
